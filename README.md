@@ -1,7 +1,3 @@
-Sure! Here's a professional `README.md` file tailored for your Java Maven project. I’ve included build instructions, usage, and author details. You can customize any section further if ne# Java Maven Build Project
-
-This project demonstrates a simple Java application built using Apache Maven. It includes standard Maven directory structure, lifecycle usage, and can serve as a starter template for Java-based development and CI/CD pipelines.
-
 ## 📦 Project Structure
 
 ```
